@@ -1,0 +1,40 @@
+.todoListItems .todoComponent {
+    margin-bottom: 10px;
+
+}
+
+.todoListItems .todoComponent .todoCompRight {
+    text-align: left;
+}
+
+.hrt {
+    width: 75%;
+    transform: translateX(17%);
+}
+
+.todoTitle {
+    color: #a9abae;
+}
+
+.noTodos {
+    /* font-variant: small-caps; */
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #c1c1c1;
+}
+
+.fa-trash,
+.bi-pencil-square {
+    color: #8e8e8e;
+    cursor: pointer;
+}
+
+.bi-pencil-square {
+    margin-right: 10px;
+}
+
+/* .fa-thumb-tack {
+    margin-right: 10px;
+    cursor: pointer;
+    color: #e55b8a;
+} */
