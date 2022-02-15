@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/md-quneifdi/React-Todo-App/static/css/main.1e04e857.css",
+    "main.js": "/md-quneifdi/React-Todo-App/static/js/main.2b826855.js",
+    "static/js/787.2843ca88.chunk.js": "/md-quneifdi/React-Todo-App/static/js/787.2843ca88.chunk.js",
+    "index.html": "/md-quneifdi/React-Todo-App/index.html",
+    "main.1e04e857.css.map": "/md-quneifdi/React-Todo-App/static/css/main.1e04e857.css.map",
+    "main.2b826855.js.map": "/md-quneifdi/React-Todo-App/static/js/main.2b826855.js.map",
+    "787.2843ca88.chunk.js.map": "/md-quneifdi/React-Todo-App/static/js/787.2843ca88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e04e857.css",
+    "static/js/main.2b826855.js"
+  ]
+}
